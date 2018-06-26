@@ -1,4 +1,4 @@
-# Udacity Machine Learning Nanodegree Capstone
+# Udacity Machine Learning Engineer Nanodegree Capstone
 
 Capstone project for udacity machine learning nanodegree
 
